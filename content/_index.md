@@ -1,7 +1,8 @@
 ---
-title: "Emily Cooper"
-subtitle: "Social media strategy @ Savoir"
-description: "Not all themes are created equal. With Blogophonic we set out to create a clean theme with the right features for a serious blog. We also wanted Blogophonic to be a pleasure to modify, so we built it with Tachyons, CSS Grid and packed it full of configurable options."
+title: "Adventure Jess"
+subtitle: "Seeking out adventures near and far"
+description: "Join me in my journeys across Australia and abroad as I step out
+of my comfort zone to experience all this life has to offer."
 date: 2019-02-18T12:27:33-06:00
 images:
   - img/revoir.jpg
