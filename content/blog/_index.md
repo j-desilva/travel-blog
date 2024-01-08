@@ -1,5 +1,5 @@
 ---
-title: Adventure Ally
+title: Adventure Alley
 description: |
   Join me on my adventures across Australia and the world. Some adventures
   are better with company, some are better alone. 

@@ -1,7 +1,7 @@
 ---
 title: "Adventure Jess"
 subtitle: "Seeking out adventures near and far"
-description: "Join me in my journeys across Australia and abroad as I step out
+description: "Join me in my journey's across Australia and abroad as I step out
 of my comfort zone to experience all this life has to offer."
 date: 2019-02-18T12:27:33-06:00
 images:

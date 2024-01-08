@@ -3,8 +3,12 @@
 text_align_right: false
 show_title_as_headline: false
 headline: |
-  Hi, my name is Emily Cooper. Nice to meet you.
+  Hi, my name is Jess De Silva. Nice to meet you.
 ---
 
 <!-- this is a subheadline -->
-I'm a driven 20-something American from Chicago who moved to Paris for an unexpected job opportunity. I've been tasked with bringing an American point of view to a venerable French marketing firm. :fr:
+I'm a 20-something Australian from Sydney who loves to explore the world 
+and seek out new and challenging experiences. 
+I've been to 20 countries so far and am excited to share my adventures with you.
+Check out my YouTube channel for all the action live on camera, or use the 
+Contact form to connect with me :)
