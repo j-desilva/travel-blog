@@ -6,7 +6,7 @@ number_categories: 3 # set to zero to exclude
 show_intro: true
 intro: |
   2024 has just begun and I'm excited to have a few adventures lined up for 
-  the upcoming months. A few camping trips testing out new gear, and an overseas
+  the coming months. A few camping trips testing out new gear, and an overseas
   trip - my first time visiting the United Kingdom. If you have any good tips
   or recommendations, reach out via the contact form and connect with me! 
 show_outro: true
