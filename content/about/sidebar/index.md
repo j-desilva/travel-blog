@@ -1,18 +1,16 @@
 ---
 ## Configure sidebar content in narrow column
-author: "Emily Cooper"
-role: "Social media strategy @ Savoir"
+author: "Jess De Silva"
+role: "Check out my YouTube channel for all the action live on camera."
 avatar_shape: rounded # circle, square, rounded
 show_social_links: true # specify social accounts in site config
-show_audio_link: true
-audio_link_label: "How to say my name"
 link_list_label: "Interests" # bookmarks, elsewhere, etc.
 link_list:
-- name: Paris
+- name: Canyoning
   url: https://en.wikipedia.org/wiki/Paris
-- name: Pastries
+- name: Camping
   url: https://en.wikipedia.org/wiki/Pastry
-- name: People
+- name: Solo Adventures
   url: https://en.wikipedia.org/wiki/People
 ---
 

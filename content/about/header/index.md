@@ -9,6 +9,6 @@ headline: |
 <!-- this is a subheadline -->
 I'm a 20-something Australian from Sydney who loves to explore the world 
 and seek out new and challenging experiences. 
-I've been to 20 countries so far and am excited to share my adventures with you.
-Check out my YouTube channel for all the action live on camera, or use the 
-Contact form to connect with me :)
+For me, it's not about the quantity of places I have been, but about the quality 
+time spent at each one. "To live is the rarest thing in the world. Most people
+just exist" - Oscar Wilde.
