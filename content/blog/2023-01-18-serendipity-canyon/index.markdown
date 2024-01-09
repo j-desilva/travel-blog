@@ -8,7 +8,7 @@ draft: false
 # layout options: single, single-sidebar
 layout: single
 categories:
-  - Canyoning
+- Canyoning
 ---
 
 {{< here >}}
@@ -35,7 +35,7 @@ plot(pressure)
 
 It's a hug, Michael. I'm hugging you. I'm half machine. I'm a monster. There's only one man I've ever called a coward, and that's Brian Doyle Murray. No, what I'm calling you is a television actor. Bad news. Andy Griffith turned us down. He didn't like his trailer.
 
-No, I did not kill Kitty. But, I am going to oblige and answer the nice officer's questions because I am an honest man with no secrets to hide. Guy's a pro. Really? __Did nothing cancel?__ *Get me a vodka rocks.* And a piece of toast.
+No, I did not kill Kitty. However, I am going to oblige and answer the nice officer's questions because I am an honest man with no secrets to hide. Guy's a pro. Really? __Did nothing cancel?__ *Get me a vodka rocks.* And a piece of toast.
 
 ## No… but I'd like to be asked!
 
@@ -61,7 +61,7 @@ He'll want to use your yacht, and I don't want this thing smelling like fish. No
 
 There's only one man I've ever called a coward, and that's Brian Doyle Murray. No, what I'm calling you is a television actor. It's called 'taking advantage.' It's what gets you ahead in life. We just call it a sausage.
 
-Michael! First place chick is hot, but has an attitude, doesn't date magicians. I've opened a door here that I regret. Guy's a pro.
+Michael! First place chick is hot, but has an attitude, doesn't date magicians. I've opened a door here that I regret.
 
 Army had half a day. Michael! Now, when you do this without getting punched in the chest, you'll have more fun. Well, what do you expect, mother? Now, when you do this without getting punched in the chest, you'll have more fun.
 
