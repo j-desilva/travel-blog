@@ -1,14 +1,14 @@
 ---
-title: "Lorem Arrested Development"
-subtitle: "How to add panelsets in R Markdown posts."
-excerpt: "Add tabbed sections with code and results."
-date: 2021-05-24
-author: "Alison Hill"
+title: "Serendipity Canyon"
+subtitle: "Blue Mountains Bliss."
+excerpt: "Blue Mountains Bliss."
+date: 2024-01-18
+author: "Jess De Silva"
 draft: false
 # layout options: single, single-sidebar
 layout: single
 categories:
-- evergreen
+  - canyoning
 ---
 
 {{< here >}}

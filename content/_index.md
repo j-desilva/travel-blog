@@ -1,5 +1,5 @@
 ---
-title: "Nothing but Adventure"
+title: "Beyond the Map"
 subtitle: "Seeking out adventures near and far"
 description: "Join me on my journey's across Australia and abroad as I step out
 of my comfort zone to experience all this life has to offer."
