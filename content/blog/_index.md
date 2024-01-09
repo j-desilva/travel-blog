@@ -1,7 +1,7 @@
 ---
-title: Adventure Alley
+title: Beyond the Map
 description: |
-  Let's take a walk down adventure alley. Some journey's are solo, and some 
+  Exploring off the beaten path. Some journey's are solo, and some 
   are with great company. 
 author: "Jess De Silva"
 show_post_thumbnail: true
