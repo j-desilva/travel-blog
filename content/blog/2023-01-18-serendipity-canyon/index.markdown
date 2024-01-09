@@ -1,14 +1,14 @@
 ---
-title: "Lorem Arrested Development"
-subtitle: "How to add panelsets in R Markdown posts."
-excerpt: "Add tabbed sections with code and results."
-date: 2021-05-24
-author: "Alison Hill"
+title: "Serendipity Canyon"
+subtitle: "Blue Mountains Bliss."
+excerpt: "Blue Mountains Bliss."
+date: 2023-01-18
+author: "Jess De Silva"
 draft: false
 # layout options: single, single-sidebar
 layout: single
 categories:
-- evergreen
+  - Canyoning
 ---
 
 {{< here >}}
@@ -18,15 +18,14 @@ categories:
 {{< panelset class="greetings" >}}
 {{< panel name="Plot" >}}
 
-```{r plot, echo=FALSE}
-plot(pressure)
-```
+<img src="{{< blogdown/postref >}}index_files/figure-html/plot-1.png" width="672" />
 
 {{< /panel >}}
 {{< panel name="Code" >}}
 
-```{r ref.label='plot', fig.show='hide'}
 
+```r
+plot(pressure)
 ```
 
 {{< /panel >}}
@@ -36,7 +35,7 @@ plot(pressure)
 
 It's a hug, Michael. I'm hugging you. I'm half machine. I'm a monster. There's only one man I've ever called a coward, and that's Brian Doyle Murray. No, what I'm calling you is a television actor. Bad news. Andy Griffith turned us down. He didn't like his trailer.
 
-No, I did not kill Kitty. However, I am going to oblige and answer the nice officer's questions because I am an honest man with no secrets to hide. Guy's a pro. Really? __Did nothing cancel?__ *Get me a vodka rocks.* And a piece of toast.
+No, I did not kill Kitty. But, I am going to oblige and answer the nice officer's questions because I am an honest man with no secrets to hide. Guy's a pro. Really? __Did nothing cancel?__ *Get me a vodka rocks.* And a piece of toast.
 
 ## No… but I'd like to be asked!
 
