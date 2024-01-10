@@ -1,8 +1,7 @@
 ---
 title: Beyond the Map
 description: |
-  Exploring off the beaten path. Some journey's are solo, and some 
-  are with great company. 
+  Exploring off the beaten path - solo, and with great company. 
 author: "Jess De Silva"
 show_post_thumbnail: true
 show_author_byline: true
