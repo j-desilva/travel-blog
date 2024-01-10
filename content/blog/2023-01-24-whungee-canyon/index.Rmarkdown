@@ -1,7 +1,7 @@
 ---
 title: "Whungee Wheengee Canyon"
-subtitle: "Headtorches - ON."
-excerpt: "Headtorches - ON."
+subtitle: "Dark Caves & Duck Unders."
+excerpt: "Dark Caves & Duck Unders."
 date: 2023-01-24
 author: "Jess De Silva"
 draft: false
