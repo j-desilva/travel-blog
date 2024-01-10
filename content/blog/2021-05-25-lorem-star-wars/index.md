@@ -65,7 +65,7 @@ I need your help, Luke. She needs your help. I'm getting too old for this sort o
 
 The more you tighten your grip, Tarkin, the more star systems will slip through your fingers. Obi-Wan is here. The Force is with him. Remember, a Jedi can feel the Force flowing through him. What!?
 
-But with the blast shield down, I can't even see! How am I supposed to fight? Don't be too proud of this technological terror you've constructed. The ability to destroy a planet is insignificant next to the power of the Force.
+But with the blast shield, I can't even see! How am I supposed to fight? Don't be too proud of this technological terror you've constructed. The ability to destroy a planet is insignificant next to the power of the Force.
 
 Hokey religions and ancient weapons are no match for a good blaster at your side, kid. I have traced the Rebel spies to her. Now she is my only link to finding their secret base. The plans you refer to will soon be back in our hands.
 
