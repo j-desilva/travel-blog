@@ -49,7 +49,7 @@ What good is a reward if you ain't around to use it? Besides, attacking that bat
 
 ## Still, she's got a lot of spirit. I don't know, what do you think?
 
-Still, she's got a lot of spirit. I don't know, what do you think? Dantooine. They're on Dantooine. I'm trying not to, kid. You are a part of the Rebel Alliance and a traitor! Take her away! A tremor in the Force. The last time I felt it was in the presence of my old master.
+Still, she's got a lot of spirit. I don't know, what do you think? Dantooine. They're on Dantooine. I'm trying not to. You are a part of the Rebel Alliance and a traitor! Take her away! A tremor in the Force. The last time I felt it was in the presence of my old master.
 
 1. You don't believe in the Force, do you?
 2. Don't be too proud of this technological terror you've constructed. The ability to destroy a planet is insignificant next to the power of the Force.
