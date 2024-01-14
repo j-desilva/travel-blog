@@ -1,7 +1,7 @@
 ---
 title: Beyond the Map
 description: |
-  Flowers don't grow on a paved road. 
+  Flowers don't grow on paved roads. 
 author: "Jess De Silva"
 show_post_thumbnail: true
 show_author_byline: true
