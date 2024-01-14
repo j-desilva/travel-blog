@@ -1,7 +1,7 @@
 ---
 title: Beyond the Map
 description: |
-  Exploring off the beaten path - solo, and with great company. 
+  Flowers don't grow on a paved road. 
 author: "Jess De Silva"
 show_post_thumbnail: true
 show_author_byline: true
