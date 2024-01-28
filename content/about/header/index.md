@@ -7,7 +7,7 @@ headline: |
 ---
 
 <!-- this is a subheadline -->
-I'm a 26y.o. Australian from Sydney, exploring the world 
+I'm a 26y.o. Aussie girl from Sydney, exploring the world 
 to seek out new and challenging experiences. 
 For me, it's not about the quantity of places I have been, but about the quality 
 of time spent at each one. "To live is the rarest thing in the world. Most people
