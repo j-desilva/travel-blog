@@ -4,7 +4,7 @@ weight: 2
 subtitle: ""
 excerpt: "No need for harnesses or ropes... this Mt Wilson fun requires a 
 flotation device and the mindset to slow down, unwind, and relax in nature... 
-with a few rock scrambles of course."
+with a few rock scrambles along the way."
 date: 2024-01-18
 draft: false
 ---
