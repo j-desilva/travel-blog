@@ -1,7 +1,8 @@
 ---
 title: Beyond the Map
 description: |
-  Flowers don't grow on paved roads. 
+  "Normality is a paved road: It's comfortable to walk,
+  but no flowers grow on it." - Vincent van Gogh 
 author: "Jess De Silva"
 show_post_thumbnail: true
 show_author_byline: true
