@@ -26,8 +26,8 @@ sidebar:
 # set up common front matter for all individual pages in series
 cascade:
   layout: single-series       # for a series, do not change
-  series: A Spoonful of Hugo  # name your series
-  author: Alison Hill
+  series: Blue Mountains  # name your series
+  author: 
   show_author_byline: true
   show_post_date: true
   sidebar:
@@ -39,8 +39,8 @@ cascade:
   tags:
   - hugo-site
   categories:
-  - Theme Features
-  - R
+  - Canyoning
+  - Hiking
 ---
 
 ** No content below YAML for the series _index. This file is a leaf bundle, and provides settings for the listing page layout and sidebar content.**

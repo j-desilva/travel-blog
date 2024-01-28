@@ -1,9 +1,10 @@
 ---
-title: "A first post"
+title: "Whungee Wheengee Canyon"
 weight: 1
 subtitle: ""
-excerpt: "Grid is the very first CSS module created specifically to solve the layout problems we’ve all been hacking our way around for as long as we’ve been making websites."
-date: 2021-01-01
+excerpt: "Dark Caves and Duck Unders. This is not your traditional
+Blue Mountains canyon"
+date: 2024-01-17
 draft: false
 ---
 
