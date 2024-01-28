@@ -11,11 +11,11 @@ layout: list-sidebar # list, list-sidebar, list-grid
 
 # for list-sidebar layout
 sidebar: 
-  title: A Spoonful of Hugo
-  author: Alison Hill
+  title: Blue Mountains
+  author: 
   description: |
-    A forking fun new feature for series.
-    Even this sidebar offers a ton of customizations!
+    The Blue Mountains is an incredible part of the world, in Sydney's backyard.
+    Some of my favourite activities here are camping, canyoning and hiking. 
     
     Check out the _index.md file in the /blog/spoonful-series
     folder to edit this content.

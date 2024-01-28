@@ -1,9 +1,9 @@
 ---
-title: "A third post"
+title: "Serendipity Canyon"
 weight: 3
 subtitle: ""
-excerpt: "Grid is the very first CSS module created specifically to solve the layout problems we’ve all been hacking our way around for as long as we’ve been making websites."
-date: 2021-01-03
+excerpt: "Pure Blue Mountains bliss. This canyon is one of the most popular for a reason."
+date: 2024-01-20
 draft: false
 ---
 
