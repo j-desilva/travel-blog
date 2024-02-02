@@ -3,7 +3,7 @@ title: Beyond the Map
 description: |
   "Normality is a paved road: It's comfortable to walk,
   but no flowers grow on it." - Vincent van Gogh 
-author: "Jess De Silva"
+author: ""
 show_post_thumbnail: true
 show_author_byline: true
 show_post_date: true
