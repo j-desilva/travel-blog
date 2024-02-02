@@ -3,7 +3,7 @@ title: "Kosciuszko Summit Walk (Day AND Night)"
 weight: 3
 subtitle: ""
 excerpt: "Spectacular in full sun... and full moon."
-date: 2024-05-20
+date: 2023-05-20
 draft: false
 ---
 

@@ -3,7 +3,7 @@ title: "Yarrangobilly Caves"
 weight: 2
 subtitle: ""
 excerpt: "Exploring the caves of Kosciuszko National Park."
-date: 2024-05-18
+date: 2023-05-18
 draft: false
 ---
 
