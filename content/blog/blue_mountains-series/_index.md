@@ -1,8 +1,9 @@
 ---
-title: A Spoonful of Hugo
+title: Blue Mountains
 description: |
-  A forking fun new feature for series.
-author: Alison Hill
+  The Blue Mountains is an incredible part of the world in Sydney's backyard.
+  Some of my favourite activities here are camping, canyoning and hiking
+author:
 show_post_thumbnail: false
 show_author_byline: true
 show_post_date: true
