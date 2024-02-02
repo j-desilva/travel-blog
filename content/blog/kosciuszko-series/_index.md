@@ -1,7 +1,7 @@
 ---
-title: A Spoonful of Hugo
+title: Kosciuszko National Park
 description: |
-  A forking fun new feature for series.
+  Kosciouszko National Park is a pristine adventure heaven.
 author: Jessica De Silva
 show_post_thumbnail: false
 show_author_byline: true
