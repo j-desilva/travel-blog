@@ -14,11 +14,9 @@ sidebar:
   title: Blue Mountains
   author: 
   description: |
-    The Blue Mountains is an incredible part of the world, in Sydney's backyard.
+    The Blue Mountains is an incredible part of the world in Sydney's backyard.
     Some of my favourite activities here are camping, canyoning and hiking. 
     
-    Check out the _index.md file in the /blog/spoonful-series
-    folder to edit this content.
   text_link_label: ""
   text_link_url: ""
   show_sidebar_adunit: false # show ad container
