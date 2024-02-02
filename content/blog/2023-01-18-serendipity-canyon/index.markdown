@@ -33,7 +33,7 @@ plot(pressure)
 
 ## I'm half machine. I'm a monster.
 
-It's a hug, Michael. I'm hugging you. I'm half machine. There's only one man I've ever called a coward, and that's Brian Doyle Murray. No, what I'm calling you is a television actor. Bad news. Andy Griffith turned us down. He didn't like his trailer.
+It's a hug, Michael. I'm hugging, I'm half machine. There's only one man I've ever called a coward, and that's Brian Doyle Murray. No, what I'm calling you is a television actor. Bad news. Andy Griffith turned us down. He didn't like his trailer.
 
 No, I did not kill Kitty. However, I am going to oblige and answer the nice officer's questions because I am an honest man with no secrets to hide. Guy's a pro. Really? __Did nothing cancel?__ *Get me a vodka rocks.* And a piece of toast.
 
@@ -59,9 +59,7 @@ I'm half machine. I'm a monster. It's a hug, Michael. I'm hugging you. Guy's a p
 
 He'll want to use your yacht, and I don't want this thing smelling like fish. Now, when you do this without getting punched in the chest, you'll have more fun. We just call it a sausage. Guy's a pro. Bad news. Andy Griffith turned us down. He didn't like his trailer.
 
-There's only one man I've ever called a coward, and that's Brian Doyle Murray. No, what I'm calling you is a television actor. It's called 'taking advantage.' It's what gets you ahead in life. We just call it a...
-
-![](/img/mexico.png)
+There's only one man I've ever called a coward, and that's Brian Doyle Murray. No, what I'm calling you is a television actor. It's called 'taking advantage.' It's what gets you ahead in life. We just call it a .
 
 Michael! First place chick is hot, but has an attitude, doesn't date magicians. I've opened a door here that I regret.
 
