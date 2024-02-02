@@ -7,6 +7,11 @@ author: "Jess De Silva"
 draft: false
 # layout options: single, single-sidebar
 layout: single
+links:
+  - icon: youtube
+    icon_pack: fab
+    name: youtube video
+    url: https://allisonhorst.github.io/palmerpenguins/
 categories:
   - canyoning
 ---
