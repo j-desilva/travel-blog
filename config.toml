@@ -1,7 +1,7 @@
 baseURL = "/"
 theme = "hugo-apero"
 languageCode = "en"
-title = "Personal Travel Blog of Jess De Silva"
+title = "Beyond the Map by Jess De Silva"
 author = "Jess De Silva"
 copyright = "" # set to override the auto generated copyright using org info and now year
 googleAnalytics = ""
