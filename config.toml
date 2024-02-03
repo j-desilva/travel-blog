@@ -28,7 +28,7 @@ enableEmoji = true
     style = "github"
     
 [params]
-  orgName = "RStudio"
+  orgName = "Beyond the Map"
   orgLocal = "Sydney"
   description = "An adventure blog full of my personal travels"
   favicon = "/img/favicon.ico"
@@ -41,9 +41,9 @@ enableEmoji = true
   socialInFooter = true
   # Default image for social sharing and search engines. 
   # Place image file in `static` folder and specify image name here.
-  sharing_image = "/img/papillons.jpg"
+  sharing_image = "/img/coronet.jpg"
   # Twitter username (without @). Used when a visitor shares your site on Twitter.
-  twitter = "apreshill"
+  # twitter = "apreshill"
   
   # use a built-in color theme
   # one of: forest / grayscale / peach / plum /
@@ -90,7 +90,7 @@ enableEmoji = true
 [menu]
   [[menu.header]]
     name = "About"
-    title = "About Blogophonic"
+    title = "About Beyond the Map"
     url = "/about/"
     weight = 1
   [[menu.header]]
