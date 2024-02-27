@@ -1,19 +1,20 @@
 ---
-title: "Kosciuszko Summit Walk (Day AND Night)"
+title: "Yarrangobilly Caves & Thermal Pool"
 weight: 3
 subtitle: ""
-excerpt: "Spectacular in full sun... and full moon."
-date: 2023-05-20
+excerpt: "Adventure tied into history."
+date: 2024-02-23
 draft: false
 ---
 
-{{< here >}}
+## Intro
 
+## Getting there
 
-## are you still here?
+## Permits
 
-### does this work?
+## Guided / Self Guided
 
----
+## Inside the Caves 
 
-## final stretch!
+## Thermal Pools

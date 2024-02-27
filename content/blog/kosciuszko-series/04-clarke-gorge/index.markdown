@@ -1,19 +1,24 @@
 ---
-title: "Clarke Gorge Walk"
-weight: 3
+title: "Clarke Gorge"
+weight: 4
 subtitle: ""
 excerpt: "If you want to feel like you're somewhere in Switzerland."
-date: 2023-05-22
+date: 2024-02-23
 draft: false
 ---
 
-{{< here >}}
+## Intro
 
+## Getting there
 
-## are you still here?
+## PLB
 
-### does this work?
+## The Track
 
----
+## Caves
 
-## final stretch!
+## Water Crossings 
+
+## Flowers
+
+## Cave Creek Falls 

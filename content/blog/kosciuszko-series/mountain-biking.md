@@ -1,25 +1,12 @@
 ---
-title: "Gravity Biking"
+title: "Kosciuszko Intro"
 weight: 1
 subtitle: ""
-excerpt: "Out of my comfort zone riding down mt Kosciuszko."
-date: 2024-01-17
+excerpt: "Welcome to the Snowy Mountains of NSW."
+date: 2024-02-25
 draft: false
 ---
 
-{{< here >}}
+## Intro
 
-
-## does this work?
-
-### or this?
-
----
-
-Let's start.
-
-## beginning
-
-## middle
-
-## end
+## 7 Areas

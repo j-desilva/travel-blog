@@ -1,21 +1,22 @@
 ---
-title: "Kosciuszko Intro"
-weight: 3
+title: "Kosciuszko Summit"
+weight: 5
 subtitle: ""
-excerpt: "If you want to feel like you're somewhere in Switzerland."
-date: 2023-05-22
+excerpt: "Visiting the highest point in Australia at sunset."
+date: 2024-02-22
 draft: false
 ---
 
-{{< here >}}
+## Intro
+
+## Getting there
+
+## Map of walking trails
+
+## Lift Pass
+
+## Summit by Day
+
+## Summit by Night
 
 
-## are you still here?
-
-### does this work?
-
----
-
-## final stretch!
-
-## i hope this heading works :)

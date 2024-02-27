@@ -1,29 +1,20 @@
 ---
-title: "Yarrangobilly Caves"
+title: "Gravity Biking"
 weight: 2
 subtitle: ""
-excerpt: "Exploring the caves of Kosciuszko National Park."
-date: 2023-05-18
+excerpt: "Hit the trails with a MTB Pass."
+date: 2024-02-24
 draft: false
 ---
 
-{{< here >}}
+## Intro
 
+## Getting there
 
-## part 2!
+## MTB Lift Pass
 
-### does this work?
+## Map of the Trails
 
----
+## The Experience
 
-## now for some very cool things
-
-## more
-
-## get ready!
-
----
-
-I put a line above, I hope it works. And I would also like to see if this 
-heading works as a paragraph. Fingers crossed because I like the larger
-writing. - It didn't.
+## Bike Hire
