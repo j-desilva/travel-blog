@@ -9,4 +9,10 @@ draft: false
 
 ## Intro
 
-## 7 Areas
+## Areas
+
+### Thredbo
+
+### Yarrangobilly
+
+## Camping
