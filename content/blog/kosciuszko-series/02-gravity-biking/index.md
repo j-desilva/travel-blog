@@ -8,7 +8,8 @@ draft: false
 ---
 
 ## Intro
-Hi. This is a test.
+What the heck is it? I don't know either until I researched things to do at Thredbo 
+during the summer. 
 
 ## Getting there
 
