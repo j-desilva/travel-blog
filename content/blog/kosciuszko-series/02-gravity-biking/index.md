@@ -8,7 +8,7 @@ draft: false
 ---
 
 ## Intro
-What the heck is it? I don't know either until I researched things to do at Thredbo 
+What the heck is it? I didn't know either until I researched things to do at Thredbo 
 during the summer. 
 
 ## Getting there
