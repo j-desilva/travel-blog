@@ -11,9 +11,9 @@ draft: false
 
 ## Getting there
 
-## Map of walking trails
-
 ## Lift Pass
+
+## Map of walking trails
 
 ## Summit by Day
 
