@@ -8,8 +8,8 @@ draft: false
 ---
 
 ## Intro
-What the heck is it? I didn't know either until I researched things to do at Thredbo 
-during the summer. 
+So what the heck is gravity biking? I didn't know either until researching 
+things to do at Thredbo during the summer. 
 
 ## Getting there
 
