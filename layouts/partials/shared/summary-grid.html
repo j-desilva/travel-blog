@@ -4,7 +4,7 @@
 
 <article class="w-100 w-50-m w-third-l mb4 pb4 bb bw1 bw0-ns pb0-ns">
   <!--if show_post_thumbnail is TRUE in root-->
-  {{ if $root.Params.show_post_thumbnail }}
+  {{ if true $root.Params.show_post_thumbnail }}
   <div class="ph0 ph2-m ph3-l">
     <!--featured image for the leaf bundle-->
     {{- $images := $page.Resources.ByType "image" -}}
@@ -24,7 +24,7 @@
     {{ end }}
     <p class="f6 lh-copy">{{ if .Params.Excerpt }}{{ .Params.Excerpt | markdownify }}{{ else }}{{ .Summary | markdownify }}</p>{{ end }}
     <!--ensures section Params are respected-->
-    {{ if $root.Params.show_author_byline }}<p class="f7 db mv1">{{ if .Params.author }}By {{ .Params.author }}{{ end }}{{ with .Params.categories }} in{{ range . }} <a href="{{ "categories/" | absURL }}{{ . | urlize }}">{{ . }}</a> {{ end }}{{ end }}</p>{{ end }}
-    {{ if $root.Params.show_post_date }}<p class="f7 db mv1">{{ .PublishDate.Format "January 2, 2006" }}</p>{{ end }}
+    {{ if true $root.Params.show_author_byline }}<p class="f7 db mv1">{{ if .Params.author }}By {{ .Params.author }}{{ end }}{{ with .Params.categories }} in{{ range . }} <a href="{{ "categories/" | absURL }}{{ . | urlize }}">{{ . }}</a> {{ end }}{{ end }}</p>{{ end }}
+    {{ if true $root.Params.show_post_date }}<p class="f7 db mv1">{{ .PublishDate.Format "January 2, 2006" }}</p>{{ end }}
   </div>
 </article>
