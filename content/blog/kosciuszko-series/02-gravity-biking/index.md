@@ -90,7 +90,7 @@ https://www.thredbo.com.au/the-mountain/mountain-map/
 
 Going up the chairlift for the very first time is so exhilarating. Feelings of
 nervousness and excitement are flooding through. This is something I have never
-experienced before, and that's what's it's all about.
+experienced before, and that's what it's all about.
 What is it going to be like? Can I acutally do this? The answer is yes you can.
 And although the first lap down was very slow and I actually got off and walked
 my bike around many of the corners... by the thrird time down, WATCH OUT IM
