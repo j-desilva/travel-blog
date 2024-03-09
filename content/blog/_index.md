@@ -1,8 +1,7 @@
 ---
 title: Beyond the Map
 description: |
-  "Normality is a paved road: It's comfortable to walk,
-  but no flowers grow on it." - Vincent van Gogh 
+  "Not all those who wander are lost" J. R. R. Tolkien 
 author: ""
 show_post_thumbnail: true
 show_author_byline: true
