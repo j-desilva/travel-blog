@@ -11,7 +11,7 @@ intro: |
   or recommendations, reach out via the contact form and connect with me! 
 show_outro: true
 outro: |
-  <i class="fas fa-mug-hot pr2"></i>If my blog has helped you, you can [buy me a coffee](https://ko-fi.com/)!
+  <i class="fas fa-mug-hot pr2"></i>If my blog has helped you, you can [buy me a coffee](https://ko-fi.com/jessdesilva)!
 ---
 
 ** index doesn't contain a body, just front matter above.
