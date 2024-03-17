@@ -86,6 +86,10 @@ https://www.thredbo.com.au/the-mountain/mountain-map/
 
 {{< /panelset >}}
 
+## Bike & Gear Hire
+
+Bikes and gear conveniently located at [Thredbo Retail & Rental.](https://www.thredbo.com.au/activities/biking/retail-rental/)
+
 ## The Experience
 
 Going up the chairlift for the very first time is so exhilarating. Feelings of
@@ -98,43 +102,26 @@ COMING FOR YOU!! It was so incredibly fun. I spent my first few laps going down
 Upper Easy Rider and Lower Easy Rider until I felt more confident. It didn't 
 take too long.
 
-{{< panelset >}} {{< panel name="Easy Rider Trails" >}}
-
 ![](/blog/kosciuszko-series/02-gravity-biking/img/biking_02.jpeg)
 
-{{< /panel >}} {{< panel name="2" >}}
 
 ![](/blog/kosciuszko-series/02-gravity-biking/img/biking_03.jpeg)
 
-{{< /panel >}} {{< panel name="3" >}}
 
 ![](/blog/kosciuszko-series/02-gravity-biking/img/biking_04.jpeg)
 
-{{< /panel >}}
-
-{{< /panelset >}}
 
 Then it was on to Sidewinder to bring me all the way back down the mountain.
 
-{{< panelset >}} {{< panel name="Sidewinder" >}}
 
 ![](/blog/kosciuszko-series/02-gravity-biking/img/biking_05.jpeg)
 
-{{< /panel >}} {{< panel name="2" >}}
 
 ![](/blog/kosciuszko-series/02-gravity-biking/img/biking_06.jpeg)
 
-{{< /panel >}} {{< panel name="3" >}}
 
 ![](/blog/kosciuszko-series/02-gravity-biking/img/biking_07.jpeg)
 
-{{< /panel >}}
-
-{{< /panelset >}}
-
-## Bike & Gear Hire
-
-Bikes and gear conveniently located at [Thredbo Retail & Rental.](https://www.thredbo.com.au/activities/biking/retail-rental/)
 
 Check out the action live on camera from my YouTube Channel:
 **Insert video here
