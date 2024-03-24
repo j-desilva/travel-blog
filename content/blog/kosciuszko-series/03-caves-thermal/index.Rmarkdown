@@ -9,7 +9,19 @@ draft: false
 
 ## Intro
 
+```{r echo=FALSE}
+knitr::include_graphics("img/cave_01.jpeg")
+```
+
+```{r echo=FALSE}
+knitr::include_graphics("img/pool_05.jpeg")
+```
+
 ## Getting there
+
+```{r echo=FALSE}
+knitr::include_graphics("img/drive_01.jpeg")
+```
 
 ## Permits
 
@@ -17,4 +29,38 @@ draft: false
 
 ## Inside the Caves 
 
+```{r echo=FALSE}
+knitr::include_graphics("img/caves_06.JPG")
+```
+
+```{r echo=FALSE}
+knitr::include_graphics("img/caves_05.JPG")
+```
+
+```{r echo=FALSE}
+knitr::include_graphics("img/caves_07.JPG")
+```
+
+```{r echo=FALSE}
+knitr::include_graphics("img/caves_08.JPG")
+```
+
 ## Thermal Pools
+
+```{r echo=FALSE}
+knitr::include_graphics("img/pool_01.jpeg")
+```
+
+```{r echo=FALSE}
+knitr::include_graphics("img/pool_02.jpeg")
+```
+
+```{r echo=FALSE}
+knitr::include_graphics("img/pool_03.jpeg")
+```
+
+```{r echo=FALSE}
+knitr::include_graphics("img/pool_04.jpeg")
+```
+
+
