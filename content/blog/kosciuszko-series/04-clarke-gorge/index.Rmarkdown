@@ -9,6 +9,13 @@ draft: false
 
 ## Intro
 
+The Clarke Gorge Walk is part of the Yarrangobilly area of the Kosciuszko National Park. 
+
+The Details:
+- 5km return
+- 3.5 - 4.5 hrs
+- Grade 5
+
 ---
 
 ## Getting there
