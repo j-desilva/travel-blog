@@ -13,14 +13,105 @@ draft: false
 
 ## Getting there
 
+```{r echo=FALSE}
+knitr::include_graphics("img/drive.jpg")
+```
+
+
 ## PLB
 
 ## The Track
 
+```{r echo=FALSE}
+knitr::include_graphics("img/start.jpg")
+```
+
+```{r echo=FALSE}
+knitr::include_graphics("img/track_01.jpeg")
+```
+
+```{r echo=FALSE}
+knitr::include_graphics("img/track_02.jpeg")
+```
+
+```{r echo=FALSE}
+knitr::include_graphics("img/track_03.jpeg")
+```
+
+```{r echo=FALSE}
+knitr::include_graphics("img/track_04.jpeg")
+```
+
+```{r echo=FALSE}
+knitr::include_graphics("img/track_05.jpeg")
+```
+
 ## Caves
+
+```{r echo=FALSE}
+knitr::include_graphics("img/caves_03.JPG")
+```
+
+```{r echo=FALSE}
+knitr::include_graphics("img/caves_02.jpeg")
+```
+
+```{r echo=FALSE}
+knitr::include_graphics("img/caves_01.jpeg")
+```
 
 ## Water Crossings 
 
+```{r echo=FALSE}
+knitr::include_graphics("img/crossing_01.jpeg")
+```
+
+```{r echo=FALSE}
+knitr::include_graphics("img/crossing_02.jpeg")
+```
+
+```{r echo=FALSE}
+knitr::include_graphics("img/crossing_03.jpeg")
+```
+
+```{r echo=FALSE}
+knitr::include_graphics("img/crossing_04.jpeg")
+```
+
+```{r echo=FALSE}
+knitr::include_graphics("img/crossing_05.jpeg")
+```
+
 ## Flowers
 
+```{r echo=FALSE}
+knitr::include_graphics("img/flower_01.JPG")
+```
+
+```{r echo=FALSE}
+knitr::include_graphics("img/flower_02.JPG")
+```
+
+```{r echo=FALSE}
+knitr::include_graphics("img/flower_03.JPG")
+```
+
+```{r echo=FALSE}
+knitr::include_graphics("img/flower_04.JPG")
+```
+
 ## Cave Creek Falls 
+
+```{r echo=FALSE}
+knitr::include_graphics("img/falls_01.jpeg")
+```
+
+```{r echo=FALSE}
+knitr::include_graphics("img/falls_02.jpeg")
+```
+
+```{r echo=FALSE}
+knitr::include_graphics("img/falls_03.jpeg")
+```
+
+
