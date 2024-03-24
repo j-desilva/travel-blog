@@ -18,8 +18,7 @@ And let me tell you... it is addictive once you get started.
 
 [Mountain Bike Beginner Guide](https://www.thredbo.com.au/activities/biking/mtb-beginner-guide/).
 
-The Mountain Bike park is open from mid November - end of April. Then it
-starts to turn cold and Thredbo transforms into some of the best ski fields that 
+The Mountain Bike park is open from mid November - end of April. Then winter hits and Thredbo transforms into some of the best ski fields that 
 Australia has to offer... what a place!
 
 ## Getting there
@@ -29,8 +28,7 @@ Park, you will need a permit to enter this section (even if just passing through
 This is very easy to do on the day. Simply pay for a vehicle pass (roughly $17)
 when entering the park via the entry station on Alpine Way. You also have the 
 option to pay in advance for an [annual pass](https://pass.nationalparks.nsw.gov.au/pass/selection) 
-that will cover access to all NSW National Parks - then all you have to do is 
-simply drive on through when entering the checkpoint.
+that will cover access to all NSW National Parks.
 
 Finding parking is extremely easy in the summer (unlike winter). There are plenty of
 day parking areas (7am-7pm) visibly marked out once you get onto Friday Drive 
@@ -49,26 +47,21 @@ it will be loaded onto this card.
 ## MTB Lift Pass
 
 There are 2 options when buying a [MTB lift pass](https://shop.thredbo.com.au/s/summer-passes-2/lift-passes-4/). You can get
-a MTB Adventure Pass ($99-$119), or just the MTB Lift Pass on its own ($89-$109).
+a MTB Adventure Pass (Includes lift access + added activities: $99-$119), or just the MTB Lift Pass on its own ($89-$109).
 
 Both passes give you access to 3 alpine lifts (and a gondola) fitted with bike 
-racks for endless amounts of fun on over 40km of adrenaline fueled mountain
-bike trails. 
+racks for endless amounts of fun on over 40km of mountain bike trails. 
 
 ![](/blog/kosciuszko-series/02-gravity-biking/img/gondola.jpeg)
 
-If you get the MTB Adventure pass, you also get access to the bobsled (among other
+If you get the MTB Adventure Pass, you get access to the bobsled (among other
 things)... which in my opinion, is something not to miss out on, purely 
 because of the nostalgic feeling of being a kid again :) For the extra $10,
 definitely worth it. 
 
 ![](/blog/kosciuszko-series/02-gravity-biking/img/bobsled.jpeg)
 
-It's important to [keep updated](https://www.thredbo.com.au/weather/lifts-trails/) 
-on the weather, as well as lift and trail closures so you know what to expect 
-when you arrive. Gunbarrel Chairlift was closed when I was here, so the only
-way to get to the easier trails was to take Merritts Gondola, followed by
-Cruiser Chairlift.
+Weeeeeeeeeeeee!
 
 ## Map of the Trails
 
@@ -85,6 +78,12 @@ https://www.thredbo.com.au/the-mountain/mountain-map/
 {{< /panel >}}
 
 {{< /panelset >}}
+
+It's important to [keep updated](https://www.thredbo.com.au/weather/lifts-trails/) 
+on the weather, as well as lift and trail closures so you know what to expect 
+when you arrive. Gunbarrel Chairlift was closed when I was here, so the only
+way to get to the easier trails was to take Merritts Gondola, followed by
+Cruiser Chairlift.
 
 ## Bike & Gear Hire
 
