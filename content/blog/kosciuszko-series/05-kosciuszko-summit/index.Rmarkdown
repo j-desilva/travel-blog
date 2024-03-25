@@ -13,10 +13,77 @@ draft: false
 
 ## Lift Pass
 
+```{r echo=FALSE}
+knitr::include_graphics("img/chairlift_01.jpeg")
+```
+
 ## Map of walking trails
+
+{{< panelset >}} {{< panel name="Map of Trails" >}}
+
+![](/blog/kosciuszko-series/05-kosciuszko-summit/img/trails.png)source:
+https://www.thredbo.com.au/the-mountain/mountain-map/
+
+{{< /panel >}} {{< panel name="Trail Info" >}}
+
+![](/blog/kosciuszko-series/05-kosciuszko-summit/img/trail-info.png)source:
+https://www.thredbo.com.au/the-mountain/mountain-map/
+
+{{< /panel >}}
+
+{{< /panelset >}}
 
 ## Summit by Day
 
+```{r echo=FALSE}
+knitr::include_graphics("img/start.jpeg")
+```
+
+```{r echo=FALSE}
+knitr::include_graphics("img/path.jpeg")
+```
+
+```{r echo=FALSE}
+knitr::include_graphics("img/me.jpeg")
+```
+
+```{r echo=FALSE}
+knitr::include_graphics("img/top.jpeg")
+```
+
+```{r echo=FALSE}
+knitr::include_graphics("img/block.jpeg")
+```
+
+
 ## Summit by Night
 
+```{r echo=FALSE}
+knitr::include_graphics("img/sunset.jpeg")
+```
 
+```{r echo=FALSE}
+knitr::include_graphics("img/sunset_01.jpeg")
+```
+
+```{r echo=FALSE}
+knitr::include_graphics("img/sunset_02.jpeg")
+```
+
+```{r echo=FALSE}
+knitr::include_graphics("img/summit.jpg")
+```
+
+```{r echo=FALSE}
+knitr::include_graphics("img/me_01.jpg")
+```
+
+Walking back down the mountain under the light of a full moon was so surreal. There was no need for head torches, the natural glow lit up our path the whole way back down. 
+
+```{r echo=FALSE}
+knitr::include_graphics("img/moon.jpg")
+```
+
+```{r echo=FALSE}
+knitr::include_graphics("img/stars.jpg")
+```
